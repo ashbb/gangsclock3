@@ -12,7 +12,7 @@ Screenshot
 
 Change log
 ----------
-22th Mar. 2009: First release v0.5
+22th Mar. 2009: First release v0.5 and Welcome Dalton!
 
 
 Todo lists

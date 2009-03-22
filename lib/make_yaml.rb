@@ -5,10 +5,11 @@ Ahmed Hazem, +2, Egypt, 2
 Al Snow, -5, USA, 4
 Anita Kuno, -5, Canada, 0
 Brad Coish, -4, Canada, 0
-Carlan Calazans, -2, Brazil, 3
+Carlan Calazans, -3, Brazil, 3
 Chris Porter, 0, UK, 4
 Christopher Bailey, -6, USA, 2
 Courtney House, -8, USA, 0
+Dalton Pinto, -3, Brazil, 5
 Daniel Kotowski, +1, Poland, 2
 Dave Lilley, +13, New Zealand, 0
 Doug Sparling, -6, USA, 4
@@ -24,11 +25,11 @@ Jerry Anning, -5, USA, 1
 Jim Pryke, -6, Canada, 1
 Jose Carlos Monteiro, 0, Portugal, 0
 Krzysztof Wicher, 0, UK, 1
-Leticia Figueira, -2, Brazil, 2
+Leticia Figueira, -3, Brazil, 2
 Lowell Vizon, -8, USA, 2
-Marcos Ricardo, -2, Brazil, 0
+Marcos Ricardo, -3, Brazil, 0
 Mareike Hybsier, +1, Germany, 1
-Massimiliano Giroldi, -2, Brazil, 4
+Massimiliano Giroldi, -3, Brazil, 4
 Michael Uplawski, +1, Germany, 0
 Michele Garoche, +1, France, 4
 Paul Harris, 0, UK, 5
@@ -43,7 +44,7 @@ Sergio Silva, 0, Portugal, 3
 suman gurung, -5, USA, 3
 Takaaki Kato, +9, Japan, 1
 Victor Goff, -7, USA, 0
-Willian Molinari, -2, Brazil, 1
+Willian Molinari, -3, Brazil, 1
 Michael_Kohl, +1, Austria, 5
 EOS
 

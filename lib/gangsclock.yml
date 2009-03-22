@@ -25,7 +25,7 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Carlan Calazans
-  utc_offset: " -2"
+  utc_offset: " -3"
   country: " Brazil"
   n: " 3"
   avatar: 
@@ -46,6 +46,12 @@
   utc_offset: " -8"
   country: " USA"
   n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
+  name: Dalton Pinto
+  utc_offset: " -3"
+  country: " Brazil"
+  n: " 5"
   avatar: 
 - !ruby/struct:Gang 
   name: Daniel Kotowski
@@ -139,7 +145,7 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Leticia Figueira
-  utc_offset: " -2"
+  utc_offset: " -3"
   country: " Brazil"
   n: " 2"
   avatar: 
@@ -151,7 +157,7 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Marcos Ricardo
-  utc_offset: " -2"
+  utc_offset: " -3"
   country: " Brazil"
   n: " 0"
   avatar: 
@@ -163,7 +169,7 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Massimiliano Giroldi
-  utc_offset: " -2"
+  utc_offset: " -3"
   country: " Brazil"
   n: " 4"
   avatar: 
@@ -253,7 +259,7 @@
   avatar: 
 - !ruby/struct:Gang 
   name: Willian Molinari
-  utc_offset: " -2"
+  utc_offset: " -3"
   country: " Brazil"
   n: " 1"
   avatar: 
