@@ -17,7 +17,8 @@ Change log
 
 Todo lists
 ----------
-Cope with the over 6 members per time zone problem... Done! :)
+- Automatic updating daylight saving time function
+- Cope with the over 6 members per time zone problem... Done! :)
 
 
 The last
