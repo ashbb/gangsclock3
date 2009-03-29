@@ -12,6 +12,7 @@ Courtney House, -8, USA, 0
 Dalton Pinto, -3, Brazil, 5
 Daniel Kotowski, +1, Poland, 2
 Dave Lilley, +13, New Zealand, 0
+Dennis Theisen, +1, Germany, 6
 Doug Sparling, -6, USA, 4
 Dylan Clendenin, -8, USA, 4
 Felipe Ureta, -6, Ecuador, 3
@@ -30,6 +31,7 @@ Lowell Vizon, -8, USA, 2
 Marcos Ricardo, -3, Brazil, 0
 Mareike Hybsier, +1, Germany, 1
 Massimiliano Giroldi, -3, Brazil, 4
+Michael_Kohl, +1, Austria, 5
 Michael Uplawski, +1, Germany, 0
 Michele Garoche, +1, France, 4
 Paul Harris, 0, UK, 5
@@ -45,7 +47,6 @@ suman gurung, -5, USA, 3
 Takaaki Kato, +9, Japan, 1
 Victor Goff, -7, USA, 0
 Willian Molinari, -3, Brazil, 1
-Michael_Kohl, +1, Austria, 5
 EOS
 
 Gang = Struct.new :name, :utc_offset, :country, :n, :avatar

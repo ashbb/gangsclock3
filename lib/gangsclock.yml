@@ -66,6 +66,12 @@
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
+  name: Dennis Theisen
+  utc_offset: " +1"
+  country: " Germany"
+  n: " 6"
+  avatar: 
+- !ruby/struct:Gang 
   name: Doug Sparling
   utc_offset: " -6"
   country: " USA"
@@ -174,6 +180,12 @@
   n: " 4"
   avatar: 
 - !ruby/struct:Gang 
+  name: Michael_Kohl
+  utc_offset: " +1"
+  country: " Austria"
+  n: " 5"
+  avatar: 
+- !ruby/struct:Gang 
   name: Michael Uplawski
   utc_offset: " +1"
   country: " Germany"
@@ -262,10 +274,4 @@
   utc_offset: " -3"
   country: " Brazil"
   n: " 1"
-  avatar: 
-- !ruby/struct:Gang 
-  name: Michael_Kohl
-  utc_offset: " +1"
-  country: " Austria"
-  n: " 5"
   avatar: 
