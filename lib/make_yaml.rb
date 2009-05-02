@@ -4,6 +4,7 @@ data =<<-EOS
 Ahmed Hazem, +2, Egypt, 2
 Al Snow, -5, USA, 4
 Anita Kuno, -5, Canada, 0
+Barrie Hill, +10, Australia, 0
 Brad Coish, -4, Canada, 0
 Carlan Calazans, -3, Brazil, 3
 Chris Porter, 0, UK, 4

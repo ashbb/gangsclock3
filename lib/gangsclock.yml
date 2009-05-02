@@ -18,6 +18,12 @@
   n: " 0"
   avatar: 
 - !ruby/struct:Gang 
+  name: Barrie Hill
+  utc_offset: " +10"
+  country: " Australia"
+  n: " 0"
+  avatar: 
+- !ruby/struct:Gang 
   name: Brad Coish
   utc_offset: " -4"
   country: " Canada"
