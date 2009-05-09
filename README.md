@@ -12,6 +12,7 @@ Screenshot
 
 Change log
 ----------
+09th May, 2009: Welcome Alexander!   
 02nd May, 2009: Welcome Barrie!   
 29th Mar. 2009: Welcome Dennis!   
 22th Mar. 2009: First release v0.5 and Welcome Dalton!
