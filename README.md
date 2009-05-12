@@ -12,6 +12,7 @@ Screenshot
 
 Change log
 ----------
+12th May, 2009: Welcome Rimpy!   
 09th May, 2009: Welcome Alexander!   
 02nd May, 2009: Welcome Barrie!   
 29th Mar. 2009: Welcome Dennis!   

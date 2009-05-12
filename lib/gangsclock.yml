@@ -228,6 +228,12 @@
   n: " 1"
   avatar: 
 - !ruby/struct:Gang 
+  name: Rimpy
+  utc_offset: " +5.5"
+  country: " India"
+  n: " 1"
+  avatar: 
+- !ruby/struct:Gang 
   name: Roy Stannard
   utc_offset: " +7"
   country: " Thailand"

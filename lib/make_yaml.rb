@@ -39,6 +39,7 @@ Michele Garoche, +1, France, 4
 Paul Harris, 0, UK, 5
 Peter Crawford, +1, Italy, 3
 Raul Parolari, -8, USA, 1
+Rimpy, +5.5, India, 1
 Roy Stannard, +7, Thailand, 0
 Ryan Fraley, -5, USA, 2
 Sami Ahmed, 0, UK, 2
