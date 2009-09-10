@@ -24,6 +24,7 @@ Ian Dees, -8, USA, 3
 Ilian Mitev, +2, Bulgaria, 0
 James Silberbauer, +2, South Africa, 1
 Jeff Hales, -6, USA, 5
+Jeff_Savin, -6, Canada, 7
 Jerry Anning, -5, USA, 1
 Jim Pryke, -6, Canada, 1
 Jose Carlos Monteiro, 0, Portugal, 0

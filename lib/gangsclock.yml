@@ -138,6 +138,12 @@
   n: " 5"
   avatar: 
 - !ruby/struct:Gang 
+  name: Jeff_Savin
+  utc_offset: " -6"
+  country: " Canada"
+  n: " 7"
+  avatar: 
+- !ruby/struct:Gang 
   name: Jerry Anning
   utc_offset: " -5"
   country: " USA"
