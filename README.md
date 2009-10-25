@@ -12,6 +12,7 @@ Screenshot
 
 Change log
 ----------
+25th Oct, 2009: Welcome Eric and updated to v0.5a for Policeman.   
 10th Sep, 2009: Welcome Jeff!   
 12th May, 2009: Welcome Rimpy!   
 09th May, 2009: Welcome Alexander!   
@@ -30,3 +31,9 @@ The last
 --------
 Enjoy!   
 **ashbb**
+
+
+Note
+----
+Now `gangsclock.yml` is created with Ruby 1.9 for Policeman (after Shoes-0.r1263).   
+If you use Raisins (Shoes-0.r1134), need to run `ruby make_yaml.rb` to re-create `gangsclock.yml` with your Ruby 1.8.

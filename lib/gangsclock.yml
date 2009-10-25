@@ -1,301 +1,307 @@
 --- 
 - !ruby/struct:Gang 
-  name: Ahmed Hazem
-  utc_offset: " +2"
-  country: " Egypt"
-  n: " 2"
-  avatar: 
+  :name: Ahmed Hazem
+  :utc_offset: " +2"
+  :country: " Egypt"
+  :n: " 2"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Al Snow
-  utc_offset: " -5"
-  country: " USA"
-  n: " 4"
-  avatar: 
+  :name: Al Snow
+  :utc_offset: " -5"
+  :country: " USA"
+  :n: " 4"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Alexander Endresen
-  utc_offset: " +2"
-  country: " Norway"
-  n: " 3"
-  avatar: 
+  :name: Alexander Endresen
+  :utc_offset: " +2"
+  :country: " Norway"
+  :n: " 3"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Anita Kuno
-  utc_offset: " -5"
-  country: " Canada"
-  n: " 0"
-  avatar: 
+  :name: Anita Kuno
+  :utc_offset: " -5"
+  :country: " Canada"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Barrie Hill
-  utc_offset: " +10"
-  country: " Australia"
-  n: " 0"
-  avatar: 
+  :name: Barrie Hill
+  :utc_offset: " +10"
+  :country: " Australia"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Brad Coish
-  utc_offset: " -4"
-  country: " Canada"
-  n: " 0"
-  avatar: 
+  :name: Brad Coish
+  :utc_offset: " -4"
+  :country: " Canada"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Carlan Calazans
-  utc_offset: " -3"
-  country: " Brazil"
-  n: " 3"
-  avatar: 
+  :name: Carlan Calazans
+  :utc_offset: " -2"
+  :country: " Brazil"
+  :n: " 3"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Chris Porter
-  utc_offset: " 0"
-  country: " UK"
-  n: " 4"
-  avatar: 
+  :name: Chris Porter
+  :utc_offset: " 0"
+  :country: " UK"
+  :n: " 4"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Christopher Bailey
-  utc_offset: " -6"
-  country: " USA"
-  n: " 2"
-  avatar: 
+  :name: Christopher Bailey
+  :utc_offset: " -6"
+  :country: " USA"
+  :n: " 2"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Courtney House
-  utc_offset: " -8"
-  country: " USA"
-  n: " 0"
-  avatar: 
+  :name: Courtney House
+  :utc_offset: " -8"
+  :country: " USA"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Dalton Pinto
-  utc_offset: " -3"
-  country: " Brazil"
-  n: " 5"
-  avatar: 
+  :name: Dalton Pinto
+  :utc_offset: " -2"
+  :country: " Brazil"
+  :n: " 5"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Daniel Kotowski
-  utc_offset: " +1"
-  country: " Poland"
-  n: " 2"
-  avatar: 
+  :name: Daniel Kotowski
+  :utc_offset: " +1"
+  :country: " Poland"
+  :n: " 2"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Dave Lilley
-  utc_offset: " +13"
-  country: " New Zealand"
-  n: " 0"
-  avatar: 
+  :name: Dave Lilley
+  :utc_offset: " +13"
+  :country: " New Zealand"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Dennis Theisen
-  utc_offset: " +1"
-  country: " Germany"
-  n: " 6"
-  avatar: 
+  :name: Dennis Theisen
+  :utc_offset: " +1"
+  :country: " Germany"
+  :n: " 6"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Doug Sparling
-  utc_offset: " -6"
-  country: " USA"
-  n: " 4"
-  avatar: 
+  :name: Doug Sparling
+  :utc_offset: " -6"
+  :country: " USA"
+  :n: " 4"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Dylan Clendenin
-  utc_offset: " -8"
-  country: " USA"
-  n: " 4"
-  avatar: 
+  :name: Dylan Clendenin
+  :utc_offset: " -8"
+  :country: " USA"
+  :n: " 4"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Felipe Ureta
-  utc_offset: " -6"
-  country: " Ecuador"
-  n: " 3"
-  avatar: 
+  :name: Eric Fer
+  :utc_offset: " -2"
+  :country: " Brazil"
+  :n: " 6"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: George Thompson
-  utc_offset: " -6"
-  country: " USA"
-  n: " 0"
-  avatar: 
+  :name: Felipe Ureta
+  :utc_offset: " -6"
+  :country: " Ecuador"
+  :n: " 3"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Hector Sansores
-  utc_offset: " -6"
-  country: " Mexico"
-  n: " 6"
-  avatar: 
+  :name: George Thompson
+  :utc_offset: " -6"
+  :country: " USA"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Ian Dees
-  utc_offset: " -8"
-  country: " USA"
-  n: " 3"
-  avatar: 
+  :name: Hector Sansores
+  :utc_offset: " -6"
+  :country: " Mexico"
+  :n: " 6"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Ilian Mitev
-  utc_offset: " +2"
-  country: " Bulgaria"
-  n: " 0"
-  avatar: 
+  :name: Ian Dees
+  :utc_offset: " -8"
+  :country: " USA"
+  :n: " 3"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: James Silberbauer
-  utc_offset: " +2"
-  country: " South Africa"
-  n: " 1"
-  avatar: 
+  :name: Ilian Mitev
+  :utc_offset: " +2"
+  :country: " Bulgaria"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Jeff Hales
-  utc_offset: " -6"
-  country: " USA"
-  n: " 5"
-  avatar: 
+  :name: James Silberbauer
+  :utc_offset: " +2"
+  :country: " South Africa"
+  :n: " 1"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Jeff_Savin
-  utc_offset: " -6"
-  country: " Canada"
-  n: " 7"
-  avatar: 
+  :name: Jeff Hales
+  :utc_offset: " -6"
+  :country: " USA"
+  :n: " 5"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Jerry Anning
-  utc_offset: " -5"
-  country: " USA"
-  n: " 1"
-  avatar: 
+  :name: Jeff_Savin
+  :utc_offset: " -6"
+  :country: " Canada"
+  :n: " 7"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Jim Pryke
-  utc_offset: " -6"
-  country: " Canada"
-  n: " 1"
-  avatar: 
+  :name: Jerry Anning
+  :utc_offset: " -5"
+  :country: " USA"
+  :n: " 1"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Jose Carlos Monteiro
-  utc_offset: " 0"
-  country: " Portugal"
-  n: " 0"
-  avatar: 
+  :name: Jim Pryke
+  :utc_offset: " -6"
+  :country: " Canada"
+  :n: " 1"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Krzysztof Wicher
-  utc_offset: " 0"
-  country: " UK"
-  n: " 1"
-  avatar: 
+  :name: Jose Carlos Monteiro
+  :utc_offset: " 0"
+  :country: " Portugal"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Leticia Figueira
-  utc_offset: " -3"
-  country: " Brazil"
-  n: " 2"
-  avatar: 
+  :name: Krzysztof Wicher
+  :utc_offset: " 0"
+  :country: " UK"
+  :n: " 1"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Lowell Vizon
-  utc_offset: " -8"
-  country: " USA"
-  n: " 2"
-  avatar: 
+  :name: Leticia Figueira
+  :utc_offset: " -2"
+  :country: " Brazil"
+  :n: " 2"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Marcos Ricardo
-  utc_offset: " -3"
-  country: " Brazil"
-  n: " 0"
-  avatar: 
+  :name: Lowell Vizon
+  :utc_offset: " -8"
+  :country: " USA"
+  :n: " 2"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Mareike Hybsier
-  utc_offset: " +1"
-  country: " Germany"
-  n: " 1"
-  avatar: 
+  :name: Marcos Ricardo
+  :utc_offset: " -2"
+  :country: " Brazil"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Massimiliano Giroldi
-  utc_offset: " -3"
-  country: " Brazil"
-  n: " 4"
-  avatar: 
+  :name: Mareike Hybsier
+  :utc_offset: " +1"
+  :country: " Germany"
+  :n: " 1"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Michael_Kohl
-  utc_offset: " +1"
-  country: " Austria"
-  n: " 5"
-  avatar: 
+  :name: Massimiliano Giroldi
+  :utc_offset: " -2"
+  :country: " Brazil"
+  :n: " 4"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Michael Uplawski
-  utc_offset: " +1"
-  country: " Germany"
-  n: " 0"
-  avatar: 
+  :name: Michael_Kohl
+  :utc_offset: " +1"
+  :country: " Austria"
+  :n: " 5"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Michele Garoche
-  utc_offset: " +1"
-  country: " France"
-  n: " 4"
-  avatar: 
+  :name: Michael Uplawski
+  :utc_offset: " +1"
+  :country: " Germany"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Paul Harris
-  utc_offset: " 0"
-  country: " UK"
-  n: " 5"
-  avatar: 
+  :name: Michele Garoche
+  :utc_offset: " +1"
+  :country: " France"
+  :n: " 4"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Peter Crawford
-  utc_offset: " +1"
-  country: " Italy"
-  n: " 3"
-  avatar: 
+  :name: Paul Harris
+  :utc_offset: " 0"
+  :country: " UK"
+  :n: " 5"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Raul Parolari
-  utc_offset: " -8"
-  country: " USA"
-  n: " 1"
-  avatar: 
+  :name: Peter Crawford
+  :utc_offset: " +1"
+  :country: " Italy"
+  :n: " 3"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Rimpy
-  utc_offset: " +5.5"
-  country: " India"
-  n: " 1"
-  avatar: 
+  :name: Raul Parolari
+  :utc_offset: " -8"
+  :country: " USA"
+  :n: " 1"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Roy Stannard
-  utc_offset: " +7"
-  country: " Thailand"
-  n: " 0"
-  avatar: 
+  :name: Rimpy
+  :utc_offset: " +5.5"
+  :country: " India"
+  :n: " 1"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Ryan Fraley
-  utc_offset: " -5"
-  country: " USA"
-  n: " 2"
-  avatar: 
+  :name: Roy Stannard
+  :utc_offset: " +7"
+  :country: " Thailand"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Sami Ahmed
-  utc_offset: " 0"
-  country: " UK"
-  n: " 2"
-  avatar: 
+  :name: Ryan Fraley
+  :utc_offset: " -5"
+  :country: " USA"
+  :n: " 2"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Satish Talim
-  utc_offset: " +5.5"
-  country: " India"
-  n: " 0"
-  avatar: 
+  :name: Sami Ahmed
+  :utc_offset: " 0"
+  :country: " UK"
+  :n: " 2"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Satoshi Asakawa
-  utc_offset: " +9"
-  country: " Japan"
-  n: " 0"
-  avatar: 
+  :name: Satish Talim
+  :utc_offset: " +5.5"
+  :country: " India"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Sergio Silva
-  utc_offset: " 0"
-  country: " Portugal"
-  n: " 3"
-  avatar: 
+  :name: Satoshi Asakawa
+  :utc_offset: " +9"
+  :country: " Japan"
+  :n: " 0"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: suman gurung
-  utc_offset: " -5"
-  country: " USA"
-  n: " 3"
-  avatar: 
+  :name: Sergio Silva
+  :utc_offset: " 0"
+  :country: " Portugal"
+  :n: " 3"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Takaaki Kato
-  utc_offset: " +9"
-  country: " Japan"
-  n: " 1"
-  avatar: 
+  :name: suman gurung
+  :utc_offset: " -5"
+  :country: " USA"
+  :n: " 3"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Victor Goff
-  utc_offset: " -7"
-  country: " USA"
-  n: " 0"
-  avatar: 
+  :name: Takaaki Kato
+  :utc_offset: " +9"
+  :country: " Japan"
+  :n: " 1"
+  :avatar: 
 - !ruby/struct:Gang 
-  name: Willian Molinari
-  utc_offset: " -3"
-  country: " Brazil"
-  n: " 1"
-  avatar: 
+  :name: Victor Goff
+  :utc_offset: " -7"
+  :country: " USA"
+  :n: " 0"
+  :avatar: 
+- !ruby/struct:Gang 
+  :name: Willian Molinari
+  :utc_offset: " -2"
+  :country: " Brazil"
+  :n: " 1"
+  :avatar: 

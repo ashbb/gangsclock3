@@ -83,7 +83,8 @@ module GangsClock
   end
   
   def mk_msg g
-    strong(g.name, "\n", g.country, "\n", (Time.new.getgm + g.utc_offset.to_f * 3600).to_s[0..-13])
+    #strong(g.name, "\n", g.country, "\n", (Time.new.getgm + g.utc_offset.to_f * 3600).to_s[0..-13])
+    strong(g.name, "\n", g.country, "\n", (Time.new.getgm + g.utc_offset.to_f * 3600).strftime("%c")[0..-9])
   end
   
   def init
