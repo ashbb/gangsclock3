@@ -48,6 +48,7 @@ Sami Ahmed, 0, UK, 2
 Satish Talim, +5.5, India, 0
 Satoshi Asakawa, +9, Japan, 0
 Sergio Silva, 0, Portugal, 3
+Shawn Evans, -7, Canada, 1
 suman gurung, -5, USA, 3
 Takaaki Kato, +9, Japan, 1
 Victor Goff, -7, USA, 0

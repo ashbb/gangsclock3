@@ -282,6 +282,12 @@
   :n: " 3"
   :avatar: 
 - !ruby/struct:Gang 
+  :name: Shawn Evans
+  :utc_offset: " -7"
+  :country: " Canada"
+  :n: " 1"
+  :avatar: 
+- !ruby/struct:Gang 
   :name: suman gurung
   :utc_offset: " -5"
   :country: " USA"
