@@ -12,6 +12,7 @@ Screenshot
 
 Change log
 ----------
+15th Nov, 2009: Welcome Mark!   
 02nd Nov, 2009: Welcome Shawn!   
 25th Oct, 2009: Welcome Eric and updated to v0.5a for Policeman.   
 10th Sep, 2009: Welcome Jeff!   

@@ -34,6 +34,7 @@ Leticia Figueira, -2, Brazil, 2
 Lowell Vizon, -8, USA, 2
 Marcos Ricardo, -2, Brazil, 0
 Mareike Hybsier, +1, Germany, 1
+Mark Allen, -5, USA, 5
 Massimiliano Giroldi, -2, Brazil, 4
 Michael_Kohl, +1, Austria, 5
 Michael Uplawski, +1, Germany, 0
