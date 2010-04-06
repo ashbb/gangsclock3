@@ -114,6 +114,12 @@
   :n: " 0"
   :avatar: 
 - !ruby/struct:Gang 
+  :name: Gorana Rubinic
+  :utc_offset: " +2"
+  :country: " Croatia"
+  :n: " 4"
+  :avatar: 
+- !ruby/struct:Gang 
   :name: Hector Sansores
   :utc_offset: " -6"
   :country: " Mexico"

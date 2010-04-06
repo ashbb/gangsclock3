@@ -73,7 +73,7 @@ module GangsClock
       @msg = para '', :stroke => @color[2]
     end
     @board = stack(:left => 60, :top => 60, :width => 200, :height => 200).hide
-    para link('CWoS'){Thread.new{system 'shoes CWoS_v0.5.shy'}},
+    para link('CWoS'){Thread.new{system 'shoes CWoS_v0.5a.shy'}},
       :left => 0, :top => 295, :weight => 'bold'
     style Shoes::Link, :stroke => white, :underline => nil, :weight => 'bold'
     style Shoes::LinkHover, :stroke => orange, :underline => nil, :weight => 'bold', :fill => nil

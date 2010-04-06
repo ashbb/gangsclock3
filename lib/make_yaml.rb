@@ -20,6 +20,7 @@ Dylan Clendenin, -8, USA, 4
 Eric Fer, -2, Brazil, 6
 Felipe Ureta, -6, Ecuador, 3
 George Thompson, -6, USA, 0
+Gorana Rubinic, +2, Croatia, 4
 Hector Sansores, -6, Mexico, 6
 Ian Dees, -8, USA, 3
 Ilian Mitev, +2, Bulgaria, 0
